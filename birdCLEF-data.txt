@@ -1,0 +1,8 @@
+The training set composed of xml and wav files is composed of 36496 recordings of 1500 bird species collected in the following coutries: Brazil, Colombia, Venezuela, Guyana, Suriname, French Guiana, Peru, Ecuador and Bolivia. It is composed of two parts to be downloaded separately:
+
+ - the first part contains 24,607 audio recordings belonging to 999 bird species (LifeCLEF 2016 training set):
+http://otmedia.lirmm.fr/LifeCLEF/BirdCLEF2017/BirdCLEF2017TrainingSetPart1.tar.gz
+ 
+ - the second part contains 11,889 audio recordings belonging to 501 specis (introduced in LifeCLEF 2017 training set):
+http://otmedia.lirmm.fr/LifeCLEF/BirdCLEF2017/BirdCLEF2017TrainingSetPart2.tar.gz
+
